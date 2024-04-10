@@ -1,4 +1,4 @@
-### Hi there, I'm Luisina 👋
+###[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=1000&color=DCF7ED&repeat=false&random=false&width=435&lines=Hi+there%2C+I'm+Luisina)](https://git.io/typing-svg) 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1000&repeat=false&random=false&width=435&lines=En+constante+b%C3%BAsqueda+de+oportunidades+para+aprender)](https://git.io/typing-svg)
