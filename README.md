@@ -1,12 +1,12 @@
 ## Hi there, I'm Luisina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg) 
-<p> 
-Actualmente estudio en Digital House y busco ampliar mi campo laboral en el mundo del desarrollo web.
-</p>
+
+<p>Actualmente estudio en Digital House y busco ampliar mi campo laboral en el mundo del desarrollo web.</p>
 ## 📊 Estadísticas
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lulimartinu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lulimartinu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 ## 👩‍💻 Lenguajes de Programación
