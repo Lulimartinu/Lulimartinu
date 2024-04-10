@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg) 
 
 <p>Actualmente estudio en Digital House y busco ampliar mi campo laboral en el mundo del desarrollo web.</p>
+
 ## 📊 Estadísticas
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lulimartinu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
