@@ -38,3 +38,4 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=BD16F7&repeat=false&random=false&width=435&lines=En+constante+b%C3%BAsqueda+de+oportunidades+para+aprender+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=F73414&repeat=false&random=false&width=435&lines=lulimartinucci%40hotmail.com)](https://git.io/typing-svg)
