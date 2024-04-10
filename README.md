@@ -1,8 +1,6 @@
 ## Hi there, I'm Luisina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1000&repeat=false&random=false&width=435&lines=En+constante+b%C3%BAsqueda+de+oportunidades+para+aprender)](https://git.io/typing-svg)
-
 ## 📊 Estadísticas
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lulimartinu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -34,4 +32,6 @@
 <a href="https://github.com/Lulimartinu"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/luisina-martinucci-14a3841a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
+<p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1000&repeat=false&random=false&width=435&lines=En+constante+b%C3%BAsqueda+de+oportunidades+para+aprender)](https://git.io/typing-svg)
+ </p>
