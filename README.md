@@ -32,5 +32,4 @@
 <a href="https://github.com/Lulimartinu"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/luisina-martinucci-14a3841a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=BD16F7&repeat=false&random=false&width=435&lines=En+constante+b%C3%BAsqueda+de+oportunidades+para+aprender+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=BD16F7&repeat=false&random=false&width=435&lines=En+constante+b%C3%BAsqueda+de+oportunidades+para+aprender+.)](https://git.io/typing-svg)
