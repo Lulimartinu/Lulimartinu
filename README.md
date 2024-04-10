@@ -19,6 +19,7 @@
 <p> 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a> 
 </p>
+
 ## 💻 Software y herramientas
 <p> 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>   
@@ -27,6 +28,7 @@
 <img alt="MySql" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" <a/>
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900" <a/>
 </p>
+
 ## 💼 Porfolio y CV
 <p> 
 <a href="https://github.com/Lulimartinu"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
