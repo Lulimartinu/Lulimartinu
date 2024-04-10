@@ -1,11 +1,9 @@
 ### Hi there, I'm Luisina 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg) 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1000&repeat=false&random=false&width=435&lines=En+constante+b%C3%BAsqueda+de+oportunidades+para+aprender)](https://git.io/typing-svg)
 
-## 📊 Estadísticas
-
+## 📊 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1000&color=F74212&repeat=false&random=false&width=435&lines=Estad%C3%ADsticas)](https://git.io/typing-svg)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lulimartinu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lulimartinu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
