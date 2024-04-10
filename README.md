@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg) 
 
+
+## 📊 Estadísticas
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulimartinu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!--
 **Lulimartinu/Lulimartinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
