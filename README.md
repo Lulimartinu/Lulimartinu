@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg) 
 
-<p>Actualmente estudio en Digital House y busco ampliar mi campo laboral.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1&color=9614F7&repeat=false&random=false&width=435&lines=Actualmente+estudio+en+Digital+House+y+busco+ampliar+mi+campo+laboral.)](https://git.io/typing-svg)
+<!--
+<p>Actualmente estudio en Digital House y busco ampliar mi campo laboral.</p> -->
 
 ## 📊 Estadísticas
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -38,4 +40,4 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=BD16F7&repeat=false&random=false&width=435&lines=En+constante+b%C3%BAsqueda+de+oportunidades+para+aprender+.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=F73414&repeat=false&random=false&width=435&lines=lulimartinucci%40hotmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=5005&pause=1000&color=F73414&random=false&width=435&lines=Contact%3A+lulimartinucci%40hotmail.com)](https://git.io/typing-svg)
