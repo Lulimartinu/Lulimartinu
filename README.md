@@ -1,8 +1,7 @@
 ## Hi there, I'm Luisina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg) 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=9614F7&random=false&width=435&lines=Professional+Developer+%7C+Digital+House)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=100000&color=9614F7&random=false&width=435&lines=Professional+Developer+%7C+Digital+House)](https://git.io/typing-svg)
 <!--
 <p>Actualmente estudio en Digital House y busco ampliar mi campo laboral.</p> -->
 
